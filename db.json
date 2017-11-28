@@ -1,0 +1,49 @@
+{
+  "Blogs": [
+    {
+      "blogTitle": "India vs Hunger",
+      "blogContent": "India has successfully defeated Hunger in 2020. ASssjsandjkasdjsa",
+      "blogCategory": "Society",
+      "blogAuthor": "Marc Anthony",
+      "id": 1
+    },
+    {
+      "blogTitle": "Elon Musk vs Arab Oil",
+      "blogContent": "AJsndabnjkasdnj",
+      "blogCategory": "Society",
+      "blogAuthor": "Amelia Clarke",
+      "id": 2
+    },
+    {
+      "blogTitle": "Ronaldo vs Messi",
+      "blogContent": "Ronaldo is the best athlete of all time. Messi has been a magician. ",
+      "blogCategory": "Sports",
+      "blogAuthor": "Rachel Dawes",
+      "id": 3
+    },
+    {
+      "blogTitle": "Electric Cars will take us to the Future",
+      "blogContent": "The electric cars will take us to the future.",
+      "blogCategory": "Technology",
+      "blogAuthor": "Shae Stark",
+      "id": 4
+    },
+    {
+      "blogTitle": "asdasdsad",
+      "blogContent": "asjdnbakjdbnksjab \nsadknsakdnbk\nsadnbajksbn\n\naskd;aslkdnka",
+      "blogCategory": "Others",
+      "blogAuthor": "Asndansd",
+      "id": 5
+    }
+  ],
+  "Users": [
+    {
+      "userName": "BharatSharma@TBS.com",
+      "userPassword": "123"
+    },
+    {
+      "userName": "MarcusZac@TBS.com",
+      "userPassword": "123"
+    }
+  ]
+}
